@@ -1,4 +1,5 @@
 # Number Guessing Game
+https://swastikapriya.github.io/Guess-the-number/
 
 ## Overview
 
@@ -22,13 +23,9 @@ This is a simple web-based number guessing game. The objective is to guess a ran
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://swastikapriya.github.io/Guess-the-number/ 
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-3. Open `index.html` in your web browser to start playing the game.
+2. Open `index.html` in your web browser to start playing the game.
 
 ## Files
 
